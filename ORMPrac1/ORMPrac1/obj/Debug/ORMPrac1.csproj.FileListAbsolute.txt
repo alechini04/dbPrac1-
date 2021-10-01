@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\bin\Debug\ORMPrac1.exe.config
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\bin\Debug\ORMPrac1.exe
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\bin\Debug\ORMPrac1.pdb
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\obj\Debug\ORMPrac1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\obj\Debug\ORMPrac1.Form1.resources
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\obj\Debug\ORMPrac1.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\obj\Debug\ORMPrac1.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\obj\Debug\ORMPrac1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\obj\Debug\ORMPrac1.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\obj\Debug\ORMPrac1.exe
+C:\Users\USUARIO\Desktop\Bases de Datos\dbPrac1\ORMPrac1\ORMPrac1\obj\Debug\ORMPrac1.pdb
